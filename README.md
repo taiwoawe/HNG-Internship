@@ -5,7 +5,15 @@ My goal for this internship is to equip myself with relevant knowledge in the fi
 
 
 https://training.zuri.team 
+
+
 https://www.figma.com/resources/learn-design/
+
+
 https://opensource.com/article/18/1/step-step-guide-git
+
+
 https://www.codecademy.com/learn/learn-html
+
+
 https://www.youtube.com/watch?v=_uQrJ0TkZlc
